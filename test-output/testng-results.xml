@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="100882" started-at="2021-06-11T15:48:15 EDT" finished-at="2021-06-11T15:49:56 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="100882" started-at="2021-06-11T15:48:15 EDT" finished-at="2021-06-11T15:49:56 EDT">
+      <class name="pack1.TC1_WomenShopping">
+        <test-method status="PASS" signature="test()[pri:0, instance:pack1.TC1_WomenShopping@436a4e4b]" name="test" duration-ms="100702" started-at="2021-06-11T15:48:15 EDT" finished-at="2021-06-11T15:49:56 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- pack1.TC1_WomenShopping -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
